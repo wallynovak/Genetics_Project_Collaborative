@@ -1,4 +1,6 @@
 # Genetics_Project_Collaborative
+Wally is experimenting with a BINDER-ized version of Nichole's project.
+
 This is where I write instructions/objectives/etc.
 What the files are/folders
 Guidelines for use
