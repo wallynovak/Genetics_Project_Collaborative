@@ -12,4 +12,3 @@ dependencies:
   - clustalo
   - numpy>=1.18.5
   - py3Dmol
-  - pymol
