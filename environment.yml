@@ -3,9 +3,9 @@ channels:
   - defaults
 dependencies:
   - biopython
-  - blast>=2.7.1
-  - cd-hit>=4.8.1
-  - ipycytoscape
+  #- blast>=2.7.1
+  #- cd-hit>=4.8.1
+  #- ipycytoscape
   - matplotlib
   - clustalo
   - numpy>=1.18.5
